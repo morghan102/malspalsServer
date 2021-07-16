@@ -2,10 +2,9 @@
   "name": "malspalsserver",
   "version": "1.0.0",
   "description": "Backend code for Malspals app",
-  "main": "index.js",
-  "type": "module",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
